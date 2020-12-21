@@ -27,6 +27,6 @@ def printer(people)
     puts people
   end
   assign_rooms(peoples).each do |people| 
-    puts
+    puts people
   end
 end
